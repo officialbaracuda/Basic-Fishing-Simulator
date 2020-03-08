@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc65c45c84b0a814f90f859321ffc06c, type: 3}
+  m_Name: Walleye
+  m_EditorClassIdentifier: 
+  name: Walleye
+  description: The walleye is the biggest member of the perch family and is a very
+    common freshwater game fish. ... Walleye are olive and gold in color fading to
+    a white underside.
+  rarity: 0
+  sellPrice: 16
+  picture: {fileID: 21300000, guid: 11501b85ecee54343a587715ab883290, type: 3}
+  missPercentage: 15

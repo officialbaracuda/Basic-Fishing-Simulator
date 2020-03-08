@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc65c45c84b0a814f90f859321ffc06c, type: 3}
+  m_Name: ChannelCatfish
+  m_EditorClassIdentifier: 
+  name: Channel Catfish
+  description: The channel catfish is olive to light blue in color with black speckles
+    on the sides, has a forked tail, whisker-like organs around the mouth, a broad
+    flat head, and a slender body.
+  rarity: 1
+  sellPrice: 44
+  picture: {fileID: 21300000, guid: 41156143d57d36f438a0e081da12eed7, type: 3}
+  missPercentage: 25

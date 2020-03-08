@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc65c45c84b0a814f90f859321ffc06c, type: 3}
+  m_Name: Salmon
+  m_EditorClassIdentifier: 
+  name: Salmon
+  description: 'Salmon is the common name for several species of ray-finned fish in
+    the family Salmonidae. Typically, salmon are anadromous: they hatch in fresh water,
+    migrate to the ocean, then return to fresh water to reproduce. However, populations
+    of several species are restricted to fresh water through their lives.'
+  rarity: 1
+  sellPrice: 31
+  picture: {fileID: 21300000, guid: 3cc9da881947b9541afd7fd62d017bdc, type: 3}
+  missPercentage: 50
